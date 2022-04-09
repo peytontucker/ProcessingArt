@@ -1,6 +1,6 @@
+# ignore the following folders (all are in the sketchbook by default and not created by user)
 examples
 libraries
 modes
 templates
 tools
-README.md
