@@ -4,3 +4,8 @@ libraries
 modes
 templates
 tools
+
+# ignore folders created by other users
+fancyFlutes
+pointSquare
+grid
